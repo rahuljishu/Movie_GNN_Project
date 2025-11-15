@@ -1,0 +1,24 @@
+# Core Data Science & Graph Libraries
+pandas
+networkx
+matplotlib
+seaborn
+scikit-learn
+
+# PyTorch (GPU version for CUDA 11.8)
+torch==2.1.0+cu118
+torchvision==0.16.0+cu118
+torchaudio==2.1.0+cu118
+
+# PyTorch Geometric Dependencies (GPU version for CUDA 11.8)
+torch-scatter==2.1.2+pt21cu118
+torch-sparse==0.6.18+pt21cu118
+torch-cluster==1.6.3+pt21cu118
+torch-spline-conv==1.2.2+pt21cu118
+
+# Main PyG Library
+torch-geometric
+
+# Utilities
+tqdm
+jupyter
